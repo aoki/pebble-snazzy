@@ -1,0 +1,31 @@
+{
+    "author": "apple6119@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "snazzy",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "snazzy",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "2f5507ec-137d-4904-b9ea-e0c565a761e5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
