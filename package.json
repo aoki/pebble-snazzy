@@ -14,15 +14,7 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": [
-                {
-                    "characterRegex": "[0-9:.]",
-                    "file": "fonts/source_code_pro",
-                    "name": "FONT_SOURCE_CODE_PRO_32",
-                    "targetPlatforms": null,
-                    "type": "font"
-                }
-            ]
+            "media": []
         },
         "sdkVersion": "3",
         "targetPlatforms": [
