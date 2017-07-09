@@ -1,0 +1,26 @@
+html, body {
+    background-color: #282A36;
+    font-family: 'Source Code Pro', serif;
+    font-weight: 100;
+    color: white;
+}
+
+h1 {
+    font-size: 1.2em;
+    /*font-family: 'Source Code Pro', serif;*/
+    font-weight: 200;
+}
+
+button {
+    font-size: 0.9em;
+    font-family: 'Source Code Pro', serif;
+    font-weight: 200;
+    color: white;
+    border: solid 1px #2ABB9C;
+    border-radius: 2px;
+    background-color: rgba(255,255,255,0.2);
+}
+
+#submit-box {
+ margin-top: 10px;
+}
